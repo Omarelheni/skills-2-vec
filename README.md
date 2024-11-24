@@ -31,13 +31,13 @@ pip install gensim numpy pandas matplotlib
 1. **Clone this repository**:
 
     ```bash
-    git clone https://github.com/<your-username>/<your-repo-name>.git
+    git clone git@github.com:Omarelheni/skills-2-vec.git
     ```
 
 2. **Navigate to the repository folder**:
 
     ```bash
-    cd <your-repo-name>
+    cd skills-2-vec
     ```
 
 3. **Open the notebook**:
